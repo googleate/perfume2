@@ -26,18 +26,14 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: The best perfumes according to the protagonists of the industry.
+  content: " \nWe've rounded up prominent personalities to choose from: Perfumers,
+    Brand Owners, and Niche Perfume Stores.\nThe perfume awards award 5 categories
+    and a special mention that is the most voted by the general public.\nWelcome to
+    the 2021 edition"
   button:
     enable: true
-    label: View Works
+    label: Learn more
     link: project
 service:
   enable: true
