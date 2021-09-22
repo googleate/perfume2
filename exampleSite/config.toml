@@ -1,5 +1,5 @@
 baseURL = "perfumes2.netlify.app"
-disableLanguages = []
+disableLanguages = ["de", "it"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
@@ -43,10 +43,8 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti
 languageCode = "it-IT"
 languageName = "Italiano"
 weight = 2
-[[languages.it.menu.main]]
-hasChildren = true
-name = "Più"
-weight = 5
+[languages.it.menu]
+main = []
 [markup.goldmark.renderer]
 unsafe = true
 [markup.tableOfContents]
