@@ -3,8 +3,7 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: Every year the world of perfumes<br/> and fragances can see the best of the
-    world
+  title: The best perfume of the world<br/> 2021
   content: The perfume awards will be voting by very prestigeous people from this
     sector
   button:
