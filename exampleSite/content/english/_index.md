@@ -15,11 +15,11 @@ about:
   title: Perfume Awards 2021
   description: The best perfumes according to the protagonists of the industry.
   content: "We've rounded up prominent personalities to choose from: Perfumers, Brand
-    Owners, and Niche Perfume Stores.<br>\nThe perfume awards award 5 categories and
-    a special mention that is the most voted by the general public.\n<br>\nWelcome
-    to the 2021 edition\n<br>\nRead more about what we do and our philosophy of design.
-    Judge for yourself The work and results <br> we’ve achieved for other clients,
-    and meet our highly experienced Team who just love to design.\n "
+    Owners, and Niche Perfume Stores.The perfume awards award 5 categories and a special
+    mention that is the most voted by the general public.\n<br>\nWelcome to the 2021
+    edition\n<br>\nRead more about what we do and our philosophy of design. Judge
+    for yourself The work and results <br> we’ve achieved for other clients, and meet
+    our highly experienced Team who just love to design.\n "
   image: "/images/premio.jpg"
   button:
     enable: true
