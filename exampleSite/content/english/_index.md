@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: "/images/wallpaper.jpg"
-  bg_overlay: true
+  bg_overlay: false
   title: The best perfume of the world<br/> 2021
   content: The perfume awards will be voting by very prestigeous people from this
     sector
