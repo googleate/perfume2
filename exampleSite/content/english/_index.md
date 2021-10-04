@@ -24,7 +24,7 @@ about:
     label: Learn more
     link: "#"
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/feature-bg.jpg
   title: The best perfumes according to the protagonists of the industry.
   content: " \nWe've rounded up prominent personalities to choose from: Perfumers,
