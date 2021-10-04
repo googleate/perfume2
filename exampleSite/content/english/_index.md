@@ -37,6 +37,11 @@ portfolio:
     link: project
 service:
   enable: true
+  description: " \nWe've rounded up prominent personalities to choose from: Perfumers,
+    Brand Owners, and Niche Perfume Stores.\nThe perfume awards award 5 categories
+    and a special mention that is the most voted by the general public.\nWelcome to
+    the 2021 edition"
+  title: The best perfumes according to the protagonists of the industry.
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
