@@ -26,7 +26,7 @@ about:
     label: Learn more
     link: "#"
 portfolio:
-  enable: false
+  enable: true
   bg_image: images/feature-bg.jpg
   title: The best perfumes according to the protagonists of the industry.
   content: " \nWe've rounded up prominent personalities to choose from: Perfumers,
@@ -38,7 +38,7 @@ portfolio:
     label: Learn more
     link: project
 service:
-  enable: true
+  enable: false
   description: " \nWe've rounded up prominent personalities to choose from: Perfumers,
     Brand Owners, and Niche Perfume Stores.\nThe perfume awards award 5 categories
     and a special mention that is the most voted by the general public.\nWelcome to
