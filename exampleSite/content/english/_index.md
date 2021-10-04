@@ -18,7 +18,7 @@ about:
     We've rounded up prominent personalities to choose from: Perfumers, Brand Owners, and Niche Perfume Stores.
     The perfume awards award 5 categories and a special mention that is the most voted by the general public.
     Welcome to the 2021 edition
-  image: "/images/perfume.jpg"
+  image: "/images/premio.jpg"
   button:
     enable: true
     label: Learn more
