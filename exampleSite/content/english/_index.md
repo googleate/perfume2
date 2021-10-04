@@ -18,7 +18,7 @@ about:
     Owners, and Niche Perfume Stores.\nThe perfume awards award 5 categories and a
     special mention that is the most voted by the general public.\nWelcome to the
     2021 edition\n "
-  image: "/images/premio2.jpg"
+  image: "/images/premio.jpg"
   button:
     enable: true
     label: Learn more
