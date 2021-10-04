@@ -30,9 +30,9 @@ weight = 5
 [languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
-languageCode = "fr-FR"
-languageName = "Français"
-weight = 2
+languageCode = "es-ES"
+languageName = "Español"
+weight = "2"
 [[languages.fr.menu.main]]
 hasChildren = true
 name = "Plus"
