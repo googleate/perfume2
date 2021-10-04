@@ -24,7 +24,7 @@ about:
   button:
     enable: true
     label: Learn more
-    link: "#"
+    link: project
 portfolio:
   enable: true
   bg_image: images/olor.jpg
