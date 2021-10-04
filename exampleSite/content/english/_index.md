@@ -27,7 +27,7 @@ about:
     link: project
 portfolio:
   enable: true
-  bg_image: images/olor.jpg
+  bg_image: images/blank.jpg
   title: The best perfumes according to the protagonists of the industry.
   content: " \nWe've rounded up prominent personalities to choose from: Perfumers,
     Brand Owners, and Niche Perfume Stores.\nThe perfume awards award 5 categories
